@@ -4,6 +4,7 @@ import About from './pages/About';
 import NotFound from './pages/NotFound';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
+import Spinner from './components/layout/Spinner';
 
 function App() {
   return (
